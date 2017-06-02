@@ -1,0 +1,4 @@
+1) Run the Mule Application 
+2) Go to http://localhost:8081/
+3) Enter Min Max values ( make sure min is > max and falling in the range of 1-200)
+4) click submit
